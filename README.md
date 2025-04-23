@@ -1,5 +1,5 @@
-# trivia-
-<el que tenga menos puntos gana>
+# trivia- el que tenga menos puntos gana
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
